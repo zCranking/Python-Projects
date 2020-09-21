@@ -1,4 +1,4 @@
-# This is a Guessing Game
+# This is a Guessing Game that I made
 import time
 from _curses import echo
 from random import seed
